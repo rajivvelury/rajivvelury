@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajivvelury
+- 👋 Hi, I’m Rajiv Velury.
 - 👀 I’m interested in the broad field of machine learning.
 
 
